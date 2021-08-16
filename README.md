@@ -1,6 +1,6 @@
 # Jogo de Naves em JavaScript
 
-Projeto produzido em um bootcamp na plataforma da [Digital Innovation One](https://digitalinnovation.one).
+Projeto produzido no bootcamp JavaScript Game Developer na plataforma da [Digital Innovation One](https://digitalinnovation.one).
 
 # Descrição do projeto
 
